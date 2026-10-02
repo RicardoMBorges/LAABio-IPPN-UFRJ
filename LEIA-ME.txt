@@ -1,0 +1,26 @@
+LAABio — IPPN/UFRJ
+Pacote completo atualizado em 02/10/2026.
+
+PUBLICAR NO GITHUB PAGES
+1. Descompacte este ZIP no seu computador.
+2. Crie um repositório público chamado laabio no GitHub.
+3. Envie o conteúdo descompactado para a raiz do repositório.
+   index.html deve ficar diretamente na raiz, ao lado da pasta assets.
+   Envie os arquivos descompactados, não apenas o ZIP.
+4. Abra Settings > Pages.
+5. Selecione Deploy from a branch, main e / (root). Clique em Save.
+6. Aguarde a publicação e use o endereço apresentado pelo GitHub.
+   Na conta RicardoMBorges, o endereço esperado é:
+   https://ricardomborges.github.io/laabio/
+
+VISUALIZAR NO COMPUTADOR
+Abra index.html em um navegador. Mantenha a pasta assets ao lado dele.
+
+CONTEÚDO
+Todas as páginas, logos, fotos, ferramentas, links Streamlit/GitHub e
+12 publicações na página Publicações e recursos.
+Inclui Mais sobre Ricardo, coordenação dos laboratórios da Central Analítica,
+perfis profissionais, galeria pessoal e análise de óleos de pirólise.
+
+O pacote é um site estático completo, sem instalação ou compilação.
+Este ZIP não é um tema nem um pacote de importação para WordPress.
